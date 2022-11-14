@@ -1,4 +1,4 @@
-# Landing-Page
+# landing-page
 
 Design of an example landing page of a website
 - Demonstrate use and knowledge of Flexbox
